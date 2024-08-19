@@ -9,17 +9,19 @@ This project is a Django-based blog creation tool that utilizes the Django admin
 
 ## Project Screenshots
 
-![dreams](https://github.com/user-attachments/assets/a2c73d1b-e61d-457b-baab-24fc2b401264)
+
+![dreams](https://github.com/user-attachments/assets/b08617b3-985b-4fc7-9ba4-5a2cf830d1ed)
 * Logo Project 
 
-![blog_1](https://github.com/user-attachments/assets/8ff4cf4f-29c3-4281-a307-9e76147d0e27)
+![blog_1](https://github.com/user-attachments/assets/65c3fe4f-5433-48cb-8109-ab199e7af89b)
 * Overview
 
-![blog_2](https://github.com/user-attachments/assets/393b8bc7-5769-44f4-9a24-eab97a881d30)
+![blog_2](https://github.com/user-attachments/assets/545bf39c-395e-4b46-9aae-15f759a439ca)
 * Text Overview
 
-![responsive](https://github.com/user-attachments/assets/1e324974-a7aa-4689-b3eb-3a1757475e47)
-![res1](https://github.com/user-attachments/assets/ec152d05-4516-44fc-91eb-c1209a54ff3e)
+![responsive](https://github.com/user-attachments/assets/b6e09360-4ab0-4379-8d59-cfd8e5e8c424)
+![res1](https://github.com/user-attachments/assets/f33539e6-8336-4a69-b8f4-1831fbd45b17)
+
 * Responsive
 
 Embark on your blogging journey with this Django project, combined with Bootstrap and other powerful libraries!
